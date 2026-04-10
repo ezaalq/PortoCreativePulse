@@ -15,4 +15,4 @@ Salman Hanif Nasution :
 - https://github.com/mannnxdd/fesnuk
 
 Andi Farhana :
-- https://github.com/andifarhana2502/ngoding_.git
+- https://github.com/andifarhana2502/ngoding_
